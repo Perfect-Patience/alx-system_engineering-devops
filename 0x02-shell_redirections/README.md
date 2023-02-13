@@ -1,1 +1,1 @@
-Shell redirections
+practicing Shell redirections
